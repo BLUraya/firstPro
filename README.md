@@ -1,2 +1,2 @@
 # firstPro
-![תיאור הדיאגרמה](/home/bluraya/k8/project_terraform/image.png)
+![תיאור הדיאגרמה](k8.drawio.svg)
